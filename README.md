@@ -1,4 +1,8 @@
-# 💫 About Me:
+#
+<h1 align="center">Hi 👋, I'm JAYAVISHNUSIVAM R</h1>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
+<br/>
+💫 About Me:
 🔭 I’m currently working on Real Time Chat Application<br>🌱 I’m currently learning JavaScript Animation<br>💬 Ask me about React<br>📫 How to reach me jaivishnu063@gmail.com
 
 
