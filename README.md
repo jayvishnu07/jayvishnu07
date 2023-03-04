@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <br/>
 💫 About Me:
-🔭 I’m currently working on Real Time Chat Application<br>🌱 I’m currently learning JavaScript Animation<br>💬 Ask me about React<br>📫 How to reach me jaivishnu063@gmail.com
+🔭 I’m currently working on Real Time Chat Application<br>🌱 I’m currently learning Data Structures and Algorithm<br>💬 Ask me about React<br>📫 How to reach me jaivishnu063@gmail.com
 
 
 ## 🌐 Socials:
